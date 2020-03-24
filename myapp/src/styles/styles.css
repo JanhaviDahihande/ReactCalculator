@@ -39,7 +39,6 @@ body {
     width: 100%;
     background-image: linear-gradient(to bottom right, var(--color-pink-transparent), var(--color-purple-transparent)), url(https://i.pinimg.com/originals/91/b5/cd/91b5cdab51e207263169904b227503b4.jpg);
     background-size: cover;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +49,7 @@ body {
     height: 80vh;
     width: 25%;
     box-shadow: 0 2rem 4rem var(--shadow);
-    background-color: var(--color-white);
+    background-color: var(--color-light-black);
 }
 
 @media screen and (max-width: 1280px) {
