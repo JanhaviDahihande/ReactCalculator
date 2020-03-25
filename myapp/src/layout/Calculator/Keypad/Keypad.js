@@ -31,8 +31,7 @@ const Keypad = () => (
         <KeypadRow> 
             <Button>0</Button>
             <Button>.</Button>
-            <Button>=</Button>
-            <Button></Button>
+            <Button type="large">=</Button>
         </KeypadRow>
     </section>
 )
