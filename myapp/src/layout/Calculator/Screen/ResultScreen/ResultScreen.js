@@ -1,8 +1,8 @@
 import React from 'react';
 
-const resultScreen  = () => (
+const resultScreen  = (props) => (
     <div className='result-screen'>
-        1234
+        {props.children}
     </div>
 );
 
